@@ -1,7 +1,3 @@
-// Troca tiítulo
-var titulo = document.querySelector(".titulo");
-titulo.textContent = "XYZ Nutrição";
-
 var pacientes = document.querySelectorAll(".paciente");
 
 // Perorre a tabela fazendo o preenchimento
